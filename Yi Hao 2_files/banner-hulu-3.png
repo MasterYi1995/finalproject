@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="icon" type="image/png" href="https://nicecloud.me/favicon.ico">
+<link rel="stylesheet" href="./files/all.min.css">
+<link rel="stylesheet" href="./files/swiper.min.css">
+<script src="./files/jquery.slim.min.js"></script>
+<link rel="stylesheet" href="./files/style.css">
+<link rel="stylesheet" href="./files/bootstrap.min_1.css">
+<link rel="stylesheet" href="./files/materialdesignicons.min.css">
+<title>Yi Hao</title>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg fixed-top" id="navbar">
+<div class="container">
+
+<a class="navbar-brand logo" href="https://nicecloud.me/">
+<h2 class="logo-dark"><i class="fa fa-globe"></i>&nbsp;Yi Hao</h2>
+<h2 class="logo-light" style="color:#dee2e6;font-weight: 400;"><i class="fa fa-globe"></i>&nbsp;Yi Hao</h2>
+</a>
+<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu">
+<line x1="3" y1="12" x2="21" y2="12"></line>
+<line x1="3" y1="6" x2="21" y2="6"></line>
+<line x1="3" y1="18" x2="21" y2="18"></line>
+</svg>
+</button>
+<div class="collapse navbar-collapse" id="navbarCollapse">
+<ul class="navbar-nav ms-auto navbar-center" id="navbar-navlist">
+<li class="nav-item"><a href="https://nicecloud.me/#home" class="nav-link active">Personal Introduction</a></li>
+<li class="nav-item"><a href="https://nicecloud.me/#services" class="nav-link">Personal Experience</a></li>
+<li class="nav-item"><a href="https://nicecloud.me/#features" class="nav-link">Artwork showcase</a></li>
+<li class="nav-item"><a href="https://nicecloud.me/#pricing" class="nav-link">Conclusion</a></li>
+</ul>
+</div>
+</div>
+
+</nav>
+
+
+<section class="hero-1 bg-center bg-primary position-relative" style="background-image: url(static/images/hero-g-bg.png);" id="home">
+<div class="container">
+<div class="row align-items-center hero-content">
+<div class="col-lg-5">
+<h1 class="text-white display-4 font-weight-bold mb-4 hero-1-title">Personal Introduction</h1>
+<p class="text-white-70 mb-4">
+I am from China, I am 27 years old, I used to study computer languages for a year after, but I found out that it is not my major, my hobbies are film and photography, after a year of studying and looking for direction, I changed my major. </div>
+<div id="carouselExampleIndicators" class="col-lg-6 col-sm-12 mx-auto ms-lg-auto me-lg-0 carousel slide" data-ride="carousel">
+<div class="swiper-container swiper-container-initialized swiper-container-horizontal">
+<div class="swiper-wrapper" style="transform: translate3d(-1272px, 0px, 0px); transition-duration: 300ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="2" style="width: 636px;"><img src="./files/banner-hulu-3.png" class="d-block w-100"></div>
+<div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="0" style="width: 500px;"><img src="https://i.imgur.com/7bZQlGo.jpg" class="d-block w-100">
+<p></p>
+</div>
+<div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="0" style="width: 636px;"><img src="https://i.imgur.com/7bZQlGo.jpg" class="d-block w-100">
+<p></p>
+</div></div>
+<div class="swiper-pagination"></div>
+<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+</div>
+</div>
+
+</div>
+
+<div class="hero-bottom-shape">
+<img src="./files/hero-1-bottom-shape.png" alt class="img-fluid d-block mx-auto">
+</div>
+
+</section>
+
+
+<section class="section" id="services">
+<div class="container">
+<div class="row justify-content-center mb-5">
+<div class="col-lg-7 text-center">
+<h2 class="fw-bold">Personal Experience</h2>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-4">
+<div class="service-box text-center px-4 py-5 position-relative mb-4">
+<div class="service-box-content p-4">
+<div class="icon-mono service-icon avatar-md mx-auto mb-4">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-box text-primary">
+<path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z">
+</path>
+<polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline>
+<line x1="12" y1="22.08" x2="12" y2="12"></line>
+</svg>
+</div>
+<h4 class="mb-3 font-size-22">Past</h4>
+<p class="text-muted mb-0">I used to be very playful, which led me to learn English for a long time.</p>
+</div>
+</div>
+</div>
+
+<div class="col-lg-4">
+<div class="service-box text-center px-4 py-5 position-relative mb-4 active">
+<div class="service-box-content p-4">
+<div class="icon-mono service-icon avatar-md mx-auto mb-4">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-layers text-primary">
+<polygon points="12 2 2 7 12 12 22 7 12 2"></polygon>
+<polyline points="2 17 12 22 22 17"></polyline>
+<polyline points="2 12 12 17 22 12"></polyline>
+</svg>
+</div>
+<h4 class="mb-3 font-size-22 text-white-90">Now</h4>
+<p class="text-white mb-0 text-white-90">After some setbacks and difficulties, I am slowly discovering my strengths and finding my purpose in life</p>
+</div>
+</div>
+</div>
+
+<div class="col-lg-4">
+<div class="service-box text-center px-4 py-5 position-relative mb-4">
+<div class="service-box-content p-4">
+<div class="icon-mono service-icon avatar-md mx-auto mb-4">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-server text-primary">
+<rect x="2" y="2" width="20" height="8" rx="2" ry="2"></rect>
+<rect x="2" y="14" width="20" height="8" rx="2" ry="2"></rect>
+<line x1="6" y1="6" x2="6.01" y2="6"></line>
+<line x1="6" y1="18" x2="6.01" y2="18"></line>
+</svg>
+</div>
+<h4 class="mb-3 font-size-22">Future</h4>
+<p class="text-muted mb-0">In this semester, I think I am suitable to work as a copywriter, clerk, etc., because I have a more active mind and many ideas.</p>
+</div>
+</div>
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+<section class="section bg-light" id="features">
+<div class="container">
+<div class="row align-items-center mb-5">
+<div class="col-md-5 order-2 order-md-1 mt-md-0 mt-5">
+<h2 class="mb-4">Artwork showcase</h2>
+<a href="https://space.bilibili.com/6087761" class="btn btn-primary">Find out more <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-right icon-xs ms-2">
+<line x1="5" y1="12" x2="19" y2="12"></line>
+<polyline points="12 5 19 12 12 19"></polyline>
+</svg></a>
+</div>
+<div class="col-md-6 ms-md-auto order-1 order-md-2">
+<div class="position-relative">
+<div class="ms-5 features-img">
+<img src="https://i.imgur.com/CSyGr89.jpg" alt class="img-fluid d-block mx-auto">
+</div>
+<img src="./files/dot-img.png" alt class="dot-img-left">
+</div>
+</div>
+</div>
+
+<div class="row align-items-center section pb-0">
+<div class="col-md-6">
+<div class="position-relative mb-md-0 mb-5">
+<div class="me-5 features-img">
+<img src="https://i.imgur.com/hiLzh5u.jpg" alt class="img-fluid d-block mx-auto rounded shadow">
+</div>
+<img src="./files/dot-img.png" alt class="dot-img-right">
+</div>
+</div>
+<div class="col-md-5 ms-md-auto">
+<h2 class="mb-4">Conclusion</h2>
+<p class="text-muted mb-5">I hope we can all have a bright future!</p>
+<line x1="5" y1="12" x2="19" y2="12"></line>
+<polyline points="12 5 19 12 12 19"></polyline>
+</svg></a>
+</div>
+</div>
+
+</div>
+
+</section>
+
+
+<footer class="footer">
+<div class="container">
+<div class="row">
+<div class="bg-overlay-img" style="background-image: url(static/images/footer-bg.png);">
+</div>
+<div class="col-lg-5">
+<div class="mb-4">
+<a href="https://nicecloud.me/#">
+<h2 class="logo-dark"><i class="fa fa-globe"></i>&nbsp;Yi Hao<br/>
+E-mail:<span class="__cf_email__" data-cfemail="5a2322323b351a2f3b3628743f3e2f">[email&#160;protected]</span></h2>
+</a>
+<p class="text-white-50 mt-4 mb-1" style="font-size: 1rem;line-height: 1.6rem;">
+Introduction to Web Principles and Design MCOM 3310<br/>
+Thanks to Dr. Dzmitry Yuran and Dr. Kyle McDaniel</p>
+</div>
+</div>
+
+
+</div>
+
+
+</div>
+
+</footer>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;710792565bbc441885639b4fc37cf9f3&quot;}"></script></body></html>
